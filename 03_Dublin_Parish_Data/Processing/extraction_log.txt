@@ -1,0 +1,2 @@
+Fetching main directory: https://www.dublindiocese.ie/parishes-mass-times/parishes-a-z/
+Found 195 parish links.
